@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/amar/Downloads/DSA",
-      "program": "/Users/amar/Downloads/DSA/build/Debug/outDebug"
+      "cwd": "/Users/amar/Downloads/DSA/LinkedList/Circular",
+      "program": "/Users/amar/Downloads/DSA/LinkedList/Circular/build/Debug/outDebug"
     }
   ]
 }
